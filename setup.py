@@ -27,6 +27,7 @@ setup(
             # comando_en_terminal = paquete.archivo_python:funcion_main
             'saludar = mi_primer_paquete.simple_node:main',
             'mover = mi_primer_paquete.mover_tortuga:main',
+            'inteligente = mi_primer_paquete.tortuga_inteligente:main',
         ],
     },
 )
