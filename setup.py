@@ -28,6 +28,7 @@ setup(
             'saludar = mi_primer_paquete.simple_node:main',
             'mover = mi_primer_paquete.mover_tortuga:main',
             'inteligente = mi_primer_paquete.tortuga_inteligente:main',
+            'invocar = mi_primer_paquete.cliente_tortuga:main',
         ],
     },
 )
